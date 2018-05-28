@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="RestServiceAPIBaymaxContext-Web.config Connection String" description="RestServiceAPIBaymaxContext Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=RestServiceAPIBaymaxContext-20180528214231; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|RestServiceAPIBaymaxContext-20180528214231.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Diego\\source\\repos\\RestServiceAPIBaymax\\RestServiceAPIBaymax\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RestServiceAPIBaymaxContext']/@connectionString" />
+  </parameter>
+</parameters>
