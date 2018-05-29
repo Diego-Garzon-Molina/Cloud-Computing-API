@@ -1,0 +1,21 @@
+c:\users\masdadm\documents\visual studio 2017\Projects\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\bin\Debug\ActualizadorMedicinasBaymax.exe.config
+c:\users\masdadm\documents\visual studio 2017\Projects\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\bin\Debug\ActualizadorMedicinasBaymax.exe
+c:\users\masdadm\documents\visual studio 2017\Projects\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\bin\Debug\ActualizadorMedicinasBaymax.pdb
+c:\users\masdadm\documents\visual studio 2017\Projects\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.csprojResolveAssemblyReference.cache
+c:\users\masdadm\documents\visual studio 2017\Projects\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.csproj.CoreCompileInputs.cache
+c:\users\masdadm\documents\visual studio 2017\Projects\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.exe
+c:\users\masdadm\documents\visual studio 2017\Projects\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.pdb
+C:\Users\Diego\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\bin\Debug\ActualizadorMedicinasBaymax.exe.config
+C:\Users\Diego\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\bin\Debug\ActualizadorMedicinasBaymax.exe
+C:\Users\Diego\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\bin\Debug\ActualizadorMedicinasBaymax.pdb
+C:\Users\Diego\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.exe
+C:\Users\Diego\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.pdb
+C:\Users\diego.garzon.BABEL-SI\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\bin\Debug\ActualizadorMedicinasBaymax.exe.config
+C:\Users\diego.garzon.BABEL-SI\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\bin\Debug\ActualizadorMedicinasBaymax.exe
+C:\Users\diego.garzon.BABEL-SI\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\bin\Debug\ActualizadorMedicinasBaymax.pdb
+C:\Users\diego.garzon.BABEL-SI\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.csprojAssemblyReference.cache
+C:\Users\diego.garzon.BABEL-SI\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.csproj.CoreCompileInputs.cache
+C:\Users\diego.garzon.BABEL-SI\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.exe
+C:\Users\diego.garzon.BABEL-SI\Downloads\ActualizadorMedicinasBaymax\ActualizadorMedicinasBaymax\obj\Debug\ActualizadorMedicinasBaymax.pdb
